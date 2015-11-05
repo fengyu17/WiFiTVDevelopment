@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WiFi+TV</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_wifitv">关于金亚云媒</string>
+
+    <!--APP全局通用 -->
+    <string name="app_common_live">直播乐</string>
+    <string name="app_common_program">点播乐</string>
+    <string name="app_common_main">主页</string>
+    <string name="app_common_life">乐生活</string>
+    <string name="app_common_me">我</string>
+    <string name="app_common_apps">应用乐</string>
+    <string name="app_common_games">视游乐</string>
+    <string name="app_common_common">通用</string>
+    <string name="app_common_settings">设置</string>
+    <string name="app_common_help">帮助</string>
+    <string name="app_common_about">关于</string>
+    <string name="app_common_feedback">意见反馈</string>
+    <string name="title_activity_live_fun">LiveFunActivity</string>
+</resources>

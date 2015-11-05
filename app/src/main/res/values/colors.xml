@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主题颜色-->
+    <color name="colorPrimary">#fca838</color>
+    <color name="colorPrimaryDark">#d68923</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--字体颜色-->
+    <color name="fontGray">#b1b1b1</color>
+    <color name="fontWhite">#FAEBD7</color>
+    <color name="fontOrange">#d68923</color>
+    <!--线条颜色-->
+    <color name="dividerLine">#d68923</color>
+</resources>
